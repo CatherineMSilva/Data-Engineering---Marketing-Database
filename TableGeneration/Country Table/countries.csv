@@ -1,0 +1,67 @@
+Country,Region,2_letter_code,3_letter_code
+Argentina,South America,AR,ARG
+Australia,Oceania,AU,AUS
+Austria,Western Europe,AT,AUT
+Belgium,Western Europe,BE,BEL
+Brazil,South America,BR,BRA
+Bulgaria,Eastern Europe,BG,BGR
+Canada,North America,CA,CAN
+Chile,South America,CL,CHL
+China,East Asia,CN,CHN
+Colombia,South America,CO,COL
+Czech Republic,Central Europe,CZ,CZE
+Denmark,Northern Europe,DK,DNK
+Egypt,North Africa,EG,EGY
+Estonia,Northern Europe,EE,EST
+Finland,Northern Europe,FI,FIN
+France,Western Europe,FR,FRA
+Germany,Western Europe,DE,DEU
+Greece,Southern Europe,GR,GRC
+Hong Kong,East Asia,HK,HKG
+Hungary,Central Europe,HU,HUN
+India,South Asia,IN,IND
+Indonesia,Southeast Asia,ID,IDN
+Ireland,Western Europe,IE,IRL
+Israel,Middle East,IL,ISR
+Italy,Southern Europe,IT,ITA
+Japan,East Asia,JP,JPN
+Kazakhstan,Central Asia,KZ,KAZ
+South Korea,East Asia,KR,KOR
+Kuwait,Middle East,KW,KWT
+Latvia,Northern Europe,LV,LVA
+Lebanon,Middle East,LB,LBN
+Lithuania,Northern Europe,LT,LTU
+Luxembourg,Western Europe,LU,LUX
+Malaysia,Southeast Asia,MY,MYS
+Mexico,North America,MX,MEX
+Netherlands,Western Europe,NL,NLD
+New Zealand,Oceania,NZ,NZL
+Nigeria,West Africa,NG,NGA
+Norway,Northern Europe,NO,NOR
+Oman,Middle East,OM,OMN
+Pakistan,South Asia,PK,PAK
+Panama,Central America,PA,PAN
+Peru,South America,PE,PER
+Philippines,Southeast Asia,PH,PHL
+Poland,Central Europe,PL,POL
+Portugal,Southern Europe,PT,PRT
+Qatar,Middle East,QA,QAT
+Romania,Eastern Europe,RO,ROU
+Russian Federation,Eastern Europe,RU,RUS
+Saudi Arabia,Middle East,SA,SAU
+Serbia,Southeast Europe,RS,SRB
+Singapore,Southeast Asia,SG,SGP
+Slovakia,Central Europe,SK,SVK
+Slovenia,Central Europe,SI,SVN
+South Africa,Southern Africa,ZA,ZAF
+Spain,Southern Europe,ES,ESP
+Sweden,Northern Europe,SE,SWE
+Switzerland,Western Europe,CH,CHE
+Taiwan,East Asia,TW,TWN
+Thailand,Southeast Asia,TH,THA
+Turkey,Middle East,TR,TUR
+Ukraine,Eastern Europe,UA,UKR
+United Arab Emirates,Middle East,AE,ARE
+United Kingdom,Western Europe,GB,GBR
+United States of America,North America,US,USA
+Vietnam,Southeast Asia,VN,VNM

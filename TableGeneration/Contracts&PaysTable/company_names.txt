@@ -1,0 +1,500 @@
+1,Microsoft
+2,Apple
+3,Saudi Aramco
+4,NVIDIA
+5,Amazon
+6,Alphabet (Google)
+7,Meta Platforms (Facebook)
+8,Berkshire Hathaway
+9,Eli Lilly
+10,TSMC
+11,Tesla
+12,Broadcom
+13,Visa
+14,Novo Nordisk
+15,JPMorgan Chase
+16,UnitedHealth
+17,Walmart
+18,LVMH
+19,Mastercard
+20,Exxon Mobil
+21,Johnson & Johnson
+22,Procter & Gamble
+23,Home Depot
+24,ASML
+25,Samsung
+26,Tencent
+27,Merck
+28,Costco
+29,Toyota
+30,AbbVie
+31,Oracle
+32,Kweichow Moutai
+33,Nestlé
+34,Chevron
+35,AMD
+36,Salesforce
+37,Bank of America
+38,Coca-Cola
+39,Hermès
+40,L'Oréal
+41,Netflix
+42,ICBC
+43,Adobe
+44,Reliance Industries
+45,International Holding Company
+46,Accenture
+47,Pepsico
+48,PetroChina
+49,Thermo Fisher Scientific
+50,Linde
+51,SAP
+52,McDonald
+53,Novartis
+54,Roche
+55,Abbott Laboratories
+56,Shell
+57,AstraZeneca
+58,Agricultural Bank of China
+59,Cisco
+60,Walt Disney
+61,T-Mobile US
+62,Wells Fargo
+63,Alibaba
+64,China Mobile
+65,Danaher
+66,Intuit
+67,Intel
+68,Tata Consultancy Services
+69,QUALCOMM
+70,Verizon
+71,Pinduoduo
+72,IBM
+73,Bank of China
+74,General Electric
+75,Comcast
+76,Applied Materials
+77,China Construction Bank
+78,Uber
+79,Caterpillar
+80,Nike
+81,ServiceNow
+82,Pfizer
+83,Union Pacific Corporation
+84,American Express
+85,Dior
+86,Amgen
+87,TotalEnergies
+88,Siemens
+89,Texas Instruments
+90,BHP Group
+91,HSBC
+92,Philip Morris
+93,Morgan Stanley
+94,Inditex
+95,Royal Bank Of Canada
+96,S&P Global
+97,Intuitive Surgical
+98,Arm Holdings
+99,HDFC Bank
+100,Stryker Corporation
+101,Prosus
+102,Lowe's Company
+103,ConocoPhillips
+104,Honeywell
+105,Goldman Sachs
+106,Schneider Electric
+107,United Parcel Service
+108,Unilever
+109,Airbus
+110,Commonwealth Bank
+111,Anheuser-Busch Inbev
+112,Prologis
+113,Boeing
+114,Booking Holdings (Booking.com)
+115,Sanofi
+116,Lam Research
+117,BlackRock
+118,AT&T
+119,Elevance Health
+120,Raytheon Technologies
+121,Deutsche Telekom
+122,Mitsubishi UFJ Financial
+123,Charles Schwab
+124,Nextera Energy
+125,Medtronic
+126,Eaton
+127,TJX Company
+128,CM Bank
+129,Petrobras
+130,Tokyo Electron
+131,Keyence
+132,Progressive
+133,Vertex Pharmaceuticals
+134,Sony
+135,Toronto Dominion Bank
+136,Starbucks
+137,Regeneron Pharmaceuticals
+138,Air Liquide
+139,Rio Tinto
+140,Citigroup
+141,Automatic Data Processing
+142,China Shenhua Energy
+143,Allianz
+144,Bristol-Myers Squibb
+145,Chubb
+146,Lockheed Martin
+147,CNOOC
+148,Deere & Company
+149,NTT (Nippon Telegraph & Telephone)
+150,Ping An Insurance
+151,China Life Insurance
+152,Cigna
+153,BP
+154,Marsh & McLennan Company
+155,Mondelez
+156,Boston Scientific
+157,Shopify
+158,CATL
+159,Sinopec
+160,Airbnb
+161,CVS Health
+162,Al Rajhi Bank
+163,TAQA
+164,EssilorLuxottica
+165,Micron Technology
+166,Analog Devices
+167,AIA
+168,Compagnie Financière Richemont
+169,Gilead Sciences
+170,Palo Alto Networks
+171,Fiserv
+172,CSL
+173,KLA
+174,Blackstone Group
+175,Zoetis
+176,UBS
+177,ICICI Bank
+178,Mitsubishi Corporation
+179,American Tower
+180,Fast Retailing
+181,Synopsys
+182,China Yangtze Power
+183,Safran
+184,SoftBank
+185,GlaxoSmithKline
+186,KKR & Co.
+187,Diageo
+188,Canadian National Railway
+189,ABB
+190,Infosys
+191,Arista Networks
+192,Shin-Etsu Chemical
+193,RELX
+194,Waste Management
+195,SK Hynix
+196,Equinix
+197,HCA Healthcare
+198,Mercedes-Benz
+199,Cadence Design Systems
+200,MercadoLibre
+201,Sherwin-Williams
+202,State Bank of India
+203,Porsche
+204,Life Insurance Corporation of India (LIC)
+205,Atlas Copco
+206,Canadian Pacific Railway
+207,Workday
+208,Bharti Airtel
+209,Stellantis
+210,Hitachi
+211,Intercontinental Exchange
+212,AXA
+213,CME Group
+214,Illinois Tool Works
+215,Bank Central Asia
+216,Zurich Insurance Group
+217,Wuliangye Yibin
+218,BMW
+219,Investor AB
+220,Snowflake
+221,CSX Corporation
+222,General Dynamics
+223,Ferrari
+224,Merck KGaA
+225,CrowdStrike
+226,Equinor
+227,Enbridge
+228,Southern Company
+229,Marriott International
+230,China Telecom
+231,Chipotle Mexican Grill
+232,Volkswagen
+233,Altria Group
+234,Vinci
+235,BYD
+236,Iberdrola
+237,Thomson Reuters
+238,Duke Energy
+239,Sumitomo Mitsui Financial Group
+240,Becton Dickinson
+241,Canadian Natural Resources
+242,Colgate-Palmolive
+243,Walmex
+244,LG Energy Solution
+245,Moody's
+246,NetEase
+247,BNP Paribas
+248,Target
+249,Schlumberger
+250,National Australia Bank
+251,Northrop Grumman
+252,Bank of Montreal
+253,British American Tobacco
+254,Parker-Hannifin
+255,Hindustan Unilever
+256,McKesson
+257,The Saudi National Bank
+258,Itaú Unibanco
+259,TransDigm
+260,Siemens Healthineers
+261,Postal Savings Bank of China
+262,Santander
+263,Enel
+264,ADNOC Gas
+265,Nintendo
+266,EOG Resources
+267,DBS Group
+268,Meituan
+269,Sberbank
+270,Mitsui Bussan
+271,Brookfield Corporation
+272,Amphenol
+273,U.S. Bancorp
+274,Nongfu Spring
+275,Cintas
+276,Itōchū Shōji
+277,Trane Technologies
+278,KDDI
+279,Dell
+280,SABIC
+281,Southern Copper
+282,PayPal
+283,Ecolab
+284,Apollo Global Management
+285,Phillips 66
+286,Rosneft
+287,Daiichi Sankyō
+288,Aon
+289,O'Reilly Automotive
+290,Munich RE (Münchener Rück)
+291,Marathon Petroleum
+292,ITC
+293,Chugai Pharmaceutical
+294,Dassault Systèmes
+295,NXP Semiconductors
+296,Alimentation Couche-Tard
+297,Recruit
+298,FedEx
+299,London Stock Exchange
+300,Emerson
+301,Enterprise Products
+302,America Movil
+303,Banco Bilbao Vizcaya Argentaria
+304,Westpac Banking
+305,Roper Technologies
+306,Bank Rakyat Indonesia
+307,Glencore
+308,Constellation Software
+309,Bank of Communications
+310,Oriental Land
+311,Marvell Technology Group
+312,Norfolk Southern
+313,Republic Services
+314,Honda
+315,PNC Financial Services
+316,Intesa Sanpaolo
+317,Paccar
+318,lululemon athletica
+319,Scotiabank
+320,Vale
+321,Midea
+322,Monster Beverage
+323,Fortescue
+324,Tokio Marine
+325,Kering
+326,Simon Property Group
+327,Larsen & Toubro
+328,DHL Group (Deutsche Post)
+329,Cement Roadstone Holding
+330,UniCredit
+331,Freeport-McMoRan
+332,Saudi Telecom Company
+333,ANZ Bank
+334,MediaTek
+335,Autodesk
+336,Motorola Solutions
+337,HCL Technologies
+338,Heineken
+339,Volvo Group
+340,Pioneer Natural Resources
+341,Denso
+342,Estee Lauder
+343,Welltower
+344,Arthur J. Gallagher & Co.
+345,Universal Music Group
+346,Atlassian
+347,Occidental Petroleum
+348,Edwards Lifesciences
+349,Reckitt Benckiser
+350,Fortinet
+351,Air Products and Chemicals
+352,Hilton Worldwide
+353,Capital One
+354,Lukoil
+355,3M
+356,Palantir
+357,The Travelers Company
+358,Spotify
+359,Public Storage
+360,Foxconn Industrial Internet
+361,Energy Transfer Partners
+362,MetLife
+363,Bajaj Finance
+364,ACWA POWER Company
+365,Ross Stores
+366,ENI
+367,National Grid
+368,Maaden
+369,Copart
+370,Adyen
+371,DoorDash
+372,Mindray
+373,Macquarie
+374,Carrier
+375,Industrial Bank
+376,Nu Holdings
+377,American International Group
+378,D. R. Horton
+379,Zijin Mining
+380,Block
+381,Wesfarmers
+382,Ford
+383,Valero Energy
+384,Supermicro
+385,Old Dominion Freight Line
+386,BAE Systems
+387,IDEXX Laboratories
+388,AutoZone
+389,Cencora
+390,W. W. Grainger
+391,Compass Group
+392,Crown Castle
+393,Sika
+394,Truist Financial
+395,Mizuho Financial Group
+396,Infineon
+397,Nucor
+398,Japan Tobacco
+399,Aflac
+400,Takeda Pharmaceutical
+401,Hess
+402,General Motors
+403,Realty Income
+404,ING
+405,Sempra Energy
+406,Sun Pharmaceutical
+407,Foxconn (Hon Hai Precision Industry)
+408,Constellation Brands
+409,Adani Enterprises
+410,BASF
+411,MSCI
+412,Holcim Group
+413,IQVIA
+414,Alpha Dhabi
+415,Hikvision
+416,Paychex
+417,DexCom
+418,Microchip Technology
+419,OCBC Bank
+420,Interactive Brokers
+421,Pacific Gas and Electric
+422,United Rentals
+423,TE Connectivity
+424,Hoya
+425,Manulife Financial
+426,Waste Connections
+427,Digital Realty
+428,Hyundai
+429,Humana
+430,Maruti Suzuki India
+431,Kraft Heinz
+432,CIBC
+433,Emirates Telecom (Etisalat Group)
+434,Suncor Energy
+435,Samsung Biologics
+436,Xiaomi
+437,Charter Communications
+438,American Electric Power
+439,Lennar
+440,Pernod Ricard
+441,Centene
+442,Novatek
+443,Constellation Energy
+444,Naqi Water Company
+445,Datadog
+446,Fomento Económico Mexicano
+447,Williams Company
+448,Oneok
+449,Nordea Bank
+450,Bank of New York Mellon
+451,Danone
+452,Banco Santander Brasil
+453,Keurig Dr Pepper
+454,Bank Mandiri
+455,Ferguson
+456,Allstate
+457,Bayan Resources
+458,CITIC Securities
+459,First Abu Dhabi Bank
+460,Daikin
+461,Tata Motors
+462,Kotak Mahindra Bank
+463,Oil & Natural Gas
+464,Fastenal
+465,Las Vegas Sands
+466,TC Energy
+467,Ametek
+468,Crédit Agricole
+469,Hong Kong Exchanges & Clearing
+470,Kaspi.kz Joint Stock Company
+471,Kimberly-Clark
+472,Axis Bank
+473,Ameriprise Financial
+474,L3Harris Technologies
+475,Capgemini
+476,Ambev
+477,GE HealthCare Technologies
+478,Ares Management
+479,Kuwait Finance House
+480,STMicroelectronics
+481,Sysco
+482,Coinbase
+483,Dominion Energy
+484,Johnson Controls
+485,The Trade Desk
+486,Experian
+487,Cognizant Technology Solutions
+488,MPLX
+489,Givaudan
+490,Dow
+491,Titan Company
+492,NTPC Limited
+493,The Hershey Company
+494,CITIC Bank
+495,Gazprom
+496,Alcon
+497,Kühne + Nagel
+498,Lonza
+499,Baidu
+500,Grupo México
