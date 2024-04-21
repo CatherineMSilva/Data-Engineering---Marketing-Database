@@ -1,0 +1,67 @@
+country, region, alpha_2_code, alpha_3_code, population, yearly_change_rate, density_p_km, land_area_km, median_age, urban_pop_percent
+Argentina,South America,AR,ARG,45773884,0.58,17,2736690,32,94
+Australia,Oceania,AU,AUS,26439111,1,3,7682300,38,86
+Austria,Western Europe,AT,AUT,8958960,0.22,109,82409,43,59
+Belgium,Western Europe,BE,BEL,11686140,0.26,386,30280,41,99
+Brazil,South America,BR,BRA,216422446,0.52,26,8358140,34,88
+Bulgaria,Eastern Europe,BG,BGR,6687717,-1.39,62,108560,45,78
+Canada,North America,CA,CAN,38781291,0.85,4,9093510,41,81
+Chile,South America,CL,CHL,19629590,0.13,26,743532,36,85
+China,East Asia,CN,CHN,1425671352,-0.02,152,9388211,39,65
+Colombia,South America,CO,COL,52085168,0.41,47,1109500,32,81
+Czech Republic,Central Europe,CZ,CZE,10495295,0.01,136,77240,43,75
+Denmark,Northern Europe,DK,DNK,5910913,0.49,139,42430,41,88
+Egypt,North Africa,EG,EGY,112716598,1.56,113,995450,24,41
+Estonia,Northern Europe,EE,EST,1322765,-0.25,31,42390,42,68
+Finland,Northern Europe,FI,FIN,5545475,0.09,18,303890,43,87
+France,Western Europe,FR,FRA,64756584,0.2,118,547557,42,84
+Germany,Western Europe,DE,DEU,83294633,-0.09,239,348560,45,77
+Greece,Southern Europe,GR,GRC,10341277,-0.42,80,128900,45,86
+Hong Kong,East Asia,HK,HKG,7491609,0.04,7135,1050,46,100
+Hungary,Central Europe,HU,HUN,10156239,1.9,112,90530,42,68
+India,South Asia,IN,IND,1428627663,0.81,481,2973190,28,36
+Indonesia,Southeast Asia,ID,IDN,277534122,0.74,153,1811570,30,59
+Ireland,Western Europe,IE,IRL,5056935,0.67,73,68890,38,64
+Israel,Middle East,IL,ISR,9174520,1.51,424,21640,29,92
+Italy,Southern Europe,IT,ITA,58870762,-0.28,200,294140,48,72
+Japan,East Asia,JP,JPN,123294513,-0.53,338,364555,49,94
+Kazakhstan,Central Asia,KZ,KAZ,19606633,1.08,7,2699700,30,57
+Kuwait,Middle East,KW,KWT,4310108,0.97,242,17820,40,100
+Latvia,Northern Europe,LV,LVA,1830211,-1.1,29,62200,44,69
+Lebanon,Middle East,LB,LBN,5353930,-2.47,523,10230,29,97
+Lithuania,Northern Europe,LT,LTU,2718352,-1.15,43,62674,44,71
+Luxembourg,Western Europe,LU,LUX,654768,1.11,253,2590,39,88
+Malaysia,Southeast Asia,MY,MYS,34308525,1.09,104,328550,31,78
+Mexico,North America,MX,MEX,128455567,0.75,66,1943950,30,88
+Netherlands,Western Europe,NL,NLD,17618299,0.31,522,33720,42,92
+New Zealand,Oceania,NZ,NZL,5228100,0.83,20,263310,37,82
+Nigeria,West Africa,NG,NGA,223804632,2.41,246,910770,17,54
+Norway,Northern Europe,NO,NOR,5474360,0.74,15,365268,40,86
+Oman,Middle East,OM,OMN,4644384,1.49,15,309500,29,88
+Pakistan,South Asia,PK,PAK,240485658,1.98,312,770880,21,35
+Panama,Central America,PA,PAN,4468087,1.35,60,74340,29,70
+Peru,South America,PE,PER,34352719,0.89,27,1280000,29,79
+Philippines,Southeast Asia,PH,PHL,117337368,1.54,394,298170,25,47
+Poland,Central Europe,PL,POL,41026067,2.93,134,306230,40,55
+Portugal,Southern Europe,PT,PRT,10247605,-0.23,112,91590,46,67
+Qatar,Middle East,QA,QAT,2716391,0.79,234,11610,34,99
+Romania,Eastern Europe,RO,ROU,19892812,1.19,86,230170,41,53
+Russian Federation,Eastern Europe,RU,RUS,144444359,-0.19,9,16376870,39,75
+Saudi Arabia,Middle East,SA,SAU,36947025,1.48,17,2149690,31,83
+Serbia,Southeast Europe,RS,SRB,7149077,-1,82,87460,43,69
+Singapore,Southeast Asia,SG,SGP,6014723,0.65,8592,700,43,100
+Slovakia,Central Europe,SK,SVK,5795199,2.69,121,48088,40,51
+Slovenia,Central Europe,SI,SVN,2119675,-0.01,105,20140,44,55
+South Africa,Southern Africa,ZA,ZAF,60414495,0.87,50,1213090,28,69
+South Korea,East Asia,KR,KOR,51784059,-0.06,533,97230,44,82
+Spain,Southern Europe,ES,ESP,47519628,-0.08,95,498800,45,80
+Sweden,Northern Europe,SE,SWE,10612086,0.59,26,410340,40,86
+Switzerland,Western Europe,CH,CHE,8796669,0.64,223,39516,42,75
+Taiwan,East Asia,TW,TWN,23923276,0.13,676,35410,42,80
+Thailand,Southeast Asia,TH,THA,71801279,0.15,141,510890,40,52
+Turkey,Middle East,TR,TUR,85816199,0.56,112,769630,32,77
+Ukraine,Eastern Europe,UA,UKR,36744634,-7.45,63,579320,45,82
+United Arab Emirates,Middle East,AE,ARE,9516871,0.8,114,83600,34,94
+United Kingdom,Western Europe,GB,GBR,67736802,0.34,280,241930,40,85
+United States of America,North America,US,USA,339996563,0.5,37,9147420,38,83
+Vietnam,Southeast Asia,VN,VNM,98858950,0.68,319,310070,33,40
